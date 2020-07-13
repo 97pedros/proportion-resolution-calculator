@@ -1,6 +1,5 @@
 h1{
     text-align: center;
-    background-color: #bbbbbb;
 }
 body{
     background-color: #dddddd;
@@ -11,5 +10,23 @@ body{
 }
 button{
     border-radius: 20px;
-    padding: 4vh;
+    padding: 3vh;
+    background-color: #55bbff;
+}
+button:active{
+    background-color: #3399ff;
+}
+div{
+    padding-top: 2vh;
+    padding-bottom: 30vh;
+}
+input{
+    color: #3399ff;
+    padding: 2vh;
+    border: 3px;
+    border-style: solid;
+    border-color: #55bbff;
+    background-color: #ccddff;
+    border-radius: 10px;
+    
 }
