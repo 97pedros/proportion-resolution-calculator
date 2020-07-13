@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: #bbbbbb;
+}
+body{
+    background-color: #dddddd;
+    display: block;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+button{
+    border-radius: 20px;
+    padding: 4vh;
+}
